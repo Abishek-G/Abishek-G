@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek-g&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-g" /> </p>
 
-- 🌱 I’m currently learning **JS, Angular and UX/UI**
-
-- 📫 How to reach me **abishekgovi@gmail.com**
 
 
 <p align="left">
