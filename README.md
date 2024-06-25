@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">A Passionate Developer on a Mission to Innovate</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abishek-g&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-g" />
 </p>
 
@@ -11,14 +11,14 @@
 
 ---
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">👨‍💻 About Me:</h3>
 <p align="left">
   Welcome to my GitHub profile! I'm Abishek, a developer fueled by curiosity and driven by the desire to create impactful solutions. My journey in the tech world is guided by continuous learning, innovation, and a passion for coding. Whether I'm delving into the intricacies of front-end development or exploring the depths of back-end technologies, I'm always ready to tackle new challenges and collaborate on exciting projects.
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abishek-g" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
@@ -72,7 +72,7 @@
 
 ---
 
-<h3 align="left">Current Focus:</h3>
+<h3 align="left">📚 Current Focus:</h3>
 <p align="left">
   I'm currently working on honing my skills in full-stack development and exploring new technologies. My interests include:
   <ul>
@@ -84,7 +84,7 @@
 
 ---
 
-<h3 align="left">Learning and Growth:</h3>
+<h3 align="left">🎯 Learning and Growth:</h3>
 <p align="left">
   I believe in the power of continuous learning. Here are some of the resources I'm currently exploring:
   <ul>
@@ -96,8 +96,8 @@
 
 ---
 
-<h3 align="left">Fun Fact:</h3>
-<p align="left">When I'm not coding, you might find me exploring the great outdoors or experimenting with gadgets!</p>
+<h3 align="left">🎸 Fun Fact:</h3>
+<p align="left">When I'm not coding, you might find me traveling on solo rides or experimenting with the latest gadgets!</p>
 
 ---
 
