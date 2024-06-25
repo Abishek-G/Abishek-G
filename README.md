@@ -62,37 +62,37 @@
   <a href="https://linkedin.com/in/abishek-g" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="abishekgovi@gmail.com" target="_blank">
+  <a href="https://twitter.com/abishek_g" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/>
+  </a>
+  <a href="mailto:abishek@example.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Current Focus:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishek-g&show_icons=true&theme=radical" alt="abishek-g stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishek-g&theme=radical" alt="abishek-g streak" />
+  I'm currently working on honing my skills in full-stack development and exploring new technologies. My interests include:
+  <ul>
+    <li>Building responsive and dynamic web applications</li>
+    <li>Exploring the latest in JavaScript frameworks</li>
+    <li>Enhancing user experiences through thoughtful UI/UX design</li>
+  </ul>
 </p>
 
 ---
 
-<!-- <h3 align="left">Latest Projects:</h3>
-<ul>
-  <li><a href="https://github.com/abishek-g/project1" target="_blank">Project 1</a> - A brief description of what this project is about.</li>
-  <li><a href="https://github.com/abishek-g/project2" target="_blank">Project 2</a> - A brief description of what this project is about.</li>
-  <li><a href="https://github.com/abishek-g/project3" target="_blank">Project 3</a> - A brief description of what this project is about.</li>
-</ul> -->
-
----
-
-<!-- <h3 align="left">My Blogs:</h3>
-<ul>
-  <li><a href="https://medium.com/@abishek-g" target="_blank">Medium</a> - Read my latest articles and tutorials on Medium.</li>
-  <li><a href="https://dev.to/abishek-g" target="_blank">DEV.to</a> - Explore my posts and share your thoughts.</li>
-</ul> -->
+<h3 align="left">Learning and Growth:</h3>
+<p align="left">
+  I believe in the power of continuous learning. Here are some of the resources I'm currently exploring:
+  <ul>
+    <li><a href="https://www.udemy.com/" target="_blank">Udemy</a> courses on advanced JavaScript and TypeScript</li>
+    <li><a href="https://www.coursera.org/" target="_blank">Coursera</a> specializations in web development</li>
+    <li>Books like "You Don't Know JS" series and "Eloquent JavaScript"</li>
+  </ul>
+</p>
 
 ---
 
